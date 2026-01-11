@@ -5,17 +5,18 @@
   <title>{{ page.title }}</title>
 
   <!-- MathJax configuration -->
-<!--   <script>
-    window.MathJax = {
-      tex: {
-        inlineMath: [['\\(','\\)']],
-        displayMath: [['\\[','\\]']]
-      }
-    };
-  </script> -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    }
+  };
+</script>
 
   <!-- MathJax loader -->
-  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 <body>
   {{ content }}
