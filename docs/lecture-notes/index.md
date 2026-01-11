@@ -5,4 +5,4 @@ title: notes directory
 
 ## notes by chapter
 
-- [notes](/lecture-notes/notes_index.html)
+- [chapter 2](/lecture-notes/ch_2_notes.html)
