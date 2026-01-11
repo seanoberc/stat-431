@@ -1,3 +1,6 @@
 title: Class Notes
 theme: minima
 markdown: kramdown
+
+url: "https://seanoberc.github.io"
+baseurl: "/stat-431"
