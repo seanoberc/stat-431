@@ -1,0 +1,3 @@
+[submodule "ml-notes/themes/hugo-xmin"]
+	path = ml-notes/themes/hugo-xmin
+	url = https://github.com/yihui/hugo-xmin.git
