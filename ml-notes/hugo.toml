@@ -1,4 +1,0 @@
-baseURL = 'https://seanoberc.github.io/stat-431/'
-languageCode = 'en-us'
-title = 'STAT-431 Machine Learning'
-theme = 'hugo-xmin'
