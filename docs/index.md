@@ -1,27 +1,13 @@
-<!-- ---
-layout: default
 ---
-
-# Hello
-Inline math:
-$(e^{i\pi}+1=0)$
-
-Display:
-$$
-\int_0^1 x^2\,dx = \frac{1}{3}
-$$
- -->
-
- ---
 layout: default
 title: Home
 ---
 
-# Hello
+# hello, world.
 
-Welcome to my site.
+Class notes for STAT-431 Machine Learning.
 
 ## Pages
 
 - [About](about.html)
-<!-- - [Notes](notes.html) -->
+- [Notes](/lecture-notes/ch_2_notes.md)
