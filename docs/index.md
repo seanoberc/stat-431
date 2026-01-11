@@ -10,4 +10,4 @@ class notes for STAT-431 Machine Learning
 ## Pages
 
 - [about](about.html)
-- [notes](/lecture-notes/)
+- [notes]({{ site.baseurl }}/lecture-notes/)

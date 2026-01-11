@@ -1,0 +1,5 @@
+title: STAT-431
+baseurl: "/stat-431"   # MUST match your repo name exactly
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
