@@ -1,2 +1,2 @@
-- [About](/about)
-- [Guide](/docs/ch_2.1)
+- [About]({{ "./about" | relative_url }})
+- [Chapter 2]({{ "/docs/ch_2_notes.html" | relative_url }})
