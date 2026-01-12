@@ -1,24 +1,12 @@
 ---
 layout: default
+title: Chapter 2
 ---
-\usepackage{amsmath}
 
-# Hello
-Inline math:
-$(e^{i\pi}+1=0)$
-
-Display:
-$$
-\int_0^1 x^2\,dx = \frac{1}{3}
-$$
-
-## Ch. 2: Statistical Learning
+$\int_0^1 x^2\,dx = \frac{1}{3}$
 
 ### Relationship between $Y$ and $X = (x_1, x_2, \cdots, x_p)$:
-
-$$
-\hat{y} = (x'x)^{-1} \cdot x'y
-$$
+- $\hat{y} = (x'x)^{-1} \cdot x'y$
 
 $$
 \begin{aligned}
@@ -30,4 +18,3 @@ MSE_{test} &= E\left[Y_0 - \hat{f}(x_0)\right]^2 \\
 &= Var(\hat{f}(x_0)) \quad + \quad Bias^2(\hat{f}(x_0)) \quad + \quad Var(\varepsilon))
 \end{aligned}
 $$
-
