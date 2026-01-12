@@ -8,4 +8,4 @@ title: About
 You're so great, you're right on top of the bell curve!
 
 Example of inline math:
-Someone walks up to you in a bar and says, "What's your sine? It must be $\frac{\pi}{2} \text{, because you're the } 1$."
+Someone walks up to you in a bar and says, "What's your sine? It must be $\frac{\pi}{2}$, because you're the $1$."
