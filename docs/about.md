@@ -5,6 +5,7 @@ title: About
 
 # About
 
-This is the about page.
+You're so great, you're right on top of the bell curve!
 
-Here is some inline math: $a^2 + b^2 = c^2$.
+Example of inline math:
+Someone walks up to you in a bar and says, "What's your sine? It must be $\frac{\pi}{2} \text{, because you're the } 1$."
