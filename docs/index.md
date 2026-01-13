@@ -10,4 +10,5 @@ class notes for STAT-431 Machine Learning
 ## Pages
 
 - [about](about.html)
-- [notes]({{ site.baseurl }}/lecture-notes/)
+- [ML notes]({{ site.baseurl }}/lecture-notes/)
+- [probability & statistics notes]({{ site.baseurl }}/prop-stats-notes)
