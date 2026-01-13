@@ -1,6 +1,6 @@
 ---
 layout: default
-title: notes directory
+title: lecture notes directory
 ---
 
 ## notes by chapter
