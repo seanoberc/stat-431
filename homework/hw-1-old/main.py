@@ -46,7 +46,6 @@ cols = ["mpg","cylinders","displacement","horsepower",
         "weight","acceleration","year"]
 
 num = auto.select_dtypes(include = "number")  # selects the relevant predictors from `Auto.csv` by data type
-
 # ranges = (num.max() - num.min()).to_frame("Range")  # assigns the range of each predictor to a var called `ranges`
 ranges = (auto[cols].max() - auto[cols].min()).to_frame("Range")    # `.to_frame()` converts the data from a series to a dataframe
 print('\n', ranges)
@@ -62,3 +61,4 @@ print('\n', ranges)
 # the `.agg()` function from the `pandas` lib is invoked upon the dataframe (created using `cols`) from Auto.csv; `.T` transposes the rows to columns
 summary = auto[cols].agg(["mean", "std"]).T
 print('\n', summary)
+
