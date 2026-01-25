@@ -16,11 +16,17 @@ MSE_{test} &= E\left[Y_0 - \hat{f}(x_0)\right]^2 \\
 \end{alignedat}
 $$
 
+<!-- LaTeX code for Question 3. (a) -->
+$$
+x_0 = (0,0,0)
+$$
+
+$$
+d_i = \sqrt{(x_{i1}-0)^2 + (x_{i2}-0)^2 + (x_{i3}-0)^2}
+$$
 
 $$
 \begin{aligned}
-x_0 = (0,0,0) \\
-d_i = \sqrt{(x_{i1}-0)^2 + (x_{i2}-0)^2 + (x_{i3}-0)^2} \\
 d_1 &= \sqrt{0^2+3^2+0^2} = 3 \\
 d_2 &= \sqrt{2^2+0^2+0^2} = 2 \\
 d_3 &= \sqrt{0^2+1^2+3^2} = \sqrt{10} \\

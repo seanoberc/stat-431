@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba53d170-be1f-4a61-a675-6d2d022c4fc3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve_plots.py" beforeDir="false" afterPath="$PROJECT_DIR$/curve_plots.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/hw_1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747413242090</updated>
       <workItem from="1747413243581" duration="718000" />
-      <workItem from="1769050493984" duration="3430000" />
+      <workItem from="1769050493984" duration="4041000" />
     </task>
     <servers />
   </component>
